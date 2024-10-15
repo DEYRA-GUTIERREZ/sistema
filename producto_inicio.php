@@ -48,7 +48,9 @@ if (isset($_GET['codigoId']) != "") {
     </br>
     <div class="container">
 
-        <h1 class="text-center">TABLA PRODUCTO</h1>
+        <h1 class="text-center">TABLA PRODUCTO </h1>
+        <a href="http://localhost:5173/productos">Ver productos</a>
+        <a href="/sistema/producto_registro.html" style="margin-left: 20px;">Agregar producto</a>
     </div>
     </br>
 
